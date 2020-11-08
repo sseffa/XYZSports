@@ -1,0 +1,9 @@
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\bin\Debug\netcoreapp3.1\XYZSports.Models.deps.json
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\bin\Debug\netcoreapp3.1\XYZSports.Models.dll
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\bin\Debug\netcoreapp3.1\XYZSports.Models.pdb
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\obj\Debug\netcoreapp3.1\XYZSports.Models.csprojAssemblyReference.cache
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\obj\Debug\netcoreapp3.1\XYZSports.Models.csproj.CoreCompileInputs.cache
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\obj\Debug\netcoreapp3.1\XYZSports.Models.AssemblyInfoInputs.cache
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\obj\Debug\netcoreapp3.1\XYZSports.Models.AssemblyInfo.cs
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\obj\Debug\netcoreapp3.1\XYZSports.Models.dll
+C:\R2D2\software-architectures\XYZSports\XYZSports.Models\obj\Debug\netcoreapp3.1\XYZSports.Models.pdb

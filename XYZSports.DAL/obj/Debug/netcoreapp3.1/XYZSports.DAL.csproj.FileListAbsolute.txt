@@ -1,0 +1,14 @@
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\bin\Debug\netcoreapp3.1\XYZSports.DAL.deps.json
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\bin\Debug\netcoreapp3.1\XYZSports.DAL.dll
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\obj\Debug\netcoreapp3.1\XYZSports.DAL.csprojAssemblyReference.cache
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\obj\Debug\netcoreapp3.1\XYZSports.DAL.AssemblyInfoInputs.cache
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\obj\Debug\netcoreapp3.1\XYZSports.DAL.AssemblyInfo.cs
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\bin\Debug\netcoreapp3.1\XYZSports.Models.dll
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\bin\Debug\netcoreapp3.1\XYZSports.Models.pdb
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\obj\Debug\netcoreapp3.1\XYZSports.DAL.csproj.CopyComplete
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\bin\Debug\netcoreapp3.1\XYZSports.DAL.pdb
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\obj\Debug\netcoreapp3.1\XYZSports.DAL.dll
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\obj\Debug\netcoreapp3.1\XYZSports.DAL.pdb
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\bin\Debug\netcoreapp3.1\XYZSports.DAL.runtimeconfig.json
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\bin\Debug\netcoreapp3.1\XYZSports.DAL.runtimeconfig.dev.json
+C:\R2D2\software-architectures\XYZSports\XYZSports.DAL\obj\Debug\netcoreapp3.1\XYZSports.DAL.csproj.CoreCompileInputs.cache

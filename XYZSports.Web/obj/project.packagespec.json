@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.Web/XYZSports.Web.csproj",
+    "projectName": "XYZSports.Web",
+    "projectPath": "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.Web/XYZSports.Web.csproj",
+    "outputPath": "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.Web/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.Core/XYZSports.Core.csproj": {
+            "projectPath": "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.Core/XYZSports.Core.csproj"
+          },
+          "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.DAL/XYZSports.DAL.csproj": {
+            "projectPath": "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.DAL/XYZSports.DAL.csproj"
+          },
+          "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.Models/XYZSports.Models.csproj": {
+            "projectPath": "/home/sefa/Projects/WORKS/software-architectures/XYZSports/XYZSports.Models/XYZSports.Models.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[3.1.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "downloadDependencies": [
+        {
+          "name": "Microsoft.AspNetCore.App.Ref",
+          "version": "[3.1.2, 3.1.2]"
+        }
+      ],
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+    }
+  }
+}

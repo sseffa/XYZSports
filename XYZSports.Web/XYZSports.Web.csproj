@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XYZSports.Core\XYZSports.Core.csproj" />
+    <ProjectReference Include="..\XYZSports.DAL\XYZSports.DAL.csproj" />
+    <ProjectReference Include="..\XYZSports.Models\XYZSports.Models.csproj" />
+  </ItemGroup>
+
+</Project>
